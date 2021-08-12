@@ -3,3 +3,30 @@ You can disable this history completely in the settings.
 ViATc doesn't save filenames renamed by double-click, shift+F6 nor multi-rename.
 For the multi-rename, TC has its own built-in "Undo" option that can restore last multi-rename.
 ------------------------
+
+Exercisses
+HelloWin.cpp
+HelloWin.cpp
+HelloWin.cpp
+DE0042E8D9DB45ABECFEDC125786200589A46.pdf
+eintr.pdf
+Example
+ocelot.vbox
+ocelot.vbox-prev
+ocelot.vdi
+ocelot
+Leaked
+April 22nd 2020, random leaked shit.rar
+valve_leakes.rar
+Colin_W_Van_Dyke.pdf
+Colin_W_Van_Dyke.pdf
+Colin_W_Van_Dyke.pdf
+Colin_W_Van_Dyke.pdf
+EMachThree
+3d
+.doom.d
+README.md
+shexview.chm
+pub
+Staple
+ori0n.usr
